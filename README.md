@@ -1,4 +1,4 @@
-wkhtmltopdf
+wkhtmltopdf/wkhtmltoimage
 ================
 
 This repository contains the static compiled binaries windows/linux from the [wkhtmltopdf project](http://wkhtmltopdf.org/).
