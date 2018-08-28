@@ -13,6 +13,7 @@
     "minimum-stability": "stable",
     "bin": [
         "bin/wkhtmltopdf-amd64",
+		"bin/wkhtmltoimage-amd64",
         "bin/wkhtmltoimage.exe",
         "bin/wkhtmltopdf.exe",
         "bin/wkhtmltox.dll"
